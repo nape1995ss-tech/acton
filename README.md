@@ -1,4 +1,22 @@
-# Acton
+{
+  "address": "0:4fa674435324d55f3264e10c6bd36cf888f1597d6bfc342d9fbce8c77bc52d9a",
+  "is_wallet": true,
+  "balance": 67951251548,
+  "stats": {
+    "nfts_count": 2,
+    "jettons_count": 5,
+    "multisig_count": 0,
+    "staking_count": 0
+  },
+  "plugins": [],
+  "status": "active",
+  "last_activity": 1794061808,
+  "get_methods": [],
+  "interfaces": [
+    "wallet_v4r2"
+  ],
+  "last_lt": 115115070000031
+}# Acton
 
 <img align="right" src="docs/public/logo-light.svg" height="150px" alt="Acton logo" />
 
